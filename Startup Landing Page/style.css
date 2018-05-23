@@ -1,0 +1,64 @@
+body {
+	background-image: url("latinmusic.png");
+	background-size: cover;
+	margin: 250px;
+}
+
+h1 {
+	font-family: 'Aldrich', sans-serif;
+	text-align: center;
+	border-top: solid;
+	border-bottom: solid;
+	border-top-width: 2px;
+	border-bottom-width: 2px;
+	border-top-color: yellow;
+	border-bottom-color: yellow;
+	border-top-right-radius: 25px;
+	border-bottom-right-radius: 25px;
+	border-bottom-left-radius: 25px;
+	border-top-left-radius: 25px;
+}
+
+button {
+	background-color: yellow;
+}
+
+#bachata {
+	color: yellow;
+	float: left;
+	margin: 1em;
+	font-family: 'Pacifico', cursive;
+	border-top: solid;
+	border-top-color: green;
+	border-top-right-radius: 10px;
+	border-top-left-radius: 10px;
+	border-bottom: solid;
+	border-bottom-color: green;
+	border-bottom-right-radius: 10px;
+	border-bottom-left-radius: 10px;
+	border-right: solid;
+	border-right-color: green;
+	border-left: solid;
+	border-left-color: green; 
+}
+
+#cumbia {
+	color: yellow;
+	float: right;
+	margin: 1em;
+	font-family: 'Pacifico', cursive;
+}
+
+#salsa {
+	color: yellow;
+	float: right;
+	margin: 1em;
+	font-family: 'Pacifico', cursive;
+}
+
+#merengue {
+	color: yellow;
+	float: left;
+	margin: 1em;
+	font-family: 'Pacifico', cursive;
+}
